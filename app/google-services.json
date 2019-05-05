@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "94009872102",
+    "firebase_url": "https://fir-prova-c7bc2.firebaseio.com",
+    "project_id": "fir-prova-c7bc2",
+    "storage_bucket": "fir-prova-c7bc2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94009872102:android:62dd6b8035388a1f",
+        "android_client_info": {
+          "package_name": "com.example.myfirebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94009872102-h2svokt7lbj9l12jc4m58ja8is6n8eoo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myfirebaseapp",
+            "certificate_hash": "6eea4c1c7b3fa1b53ea1ccbf1720bfdd5317ef5d"
+          }
+        },
+        {
+          "client_id": "94009872102-qthnef00lklep15vu7ic1jfi9q3qi163.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYqTPS9am9V3rYeDYMvYRPzikgJFq4MuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94009872102-qthnef00lklep15vu7ic1jfi9q3qi163.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
